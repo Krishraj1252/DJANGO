@@ -1,0 +1,17 @@
+#top {
+    border-style: groove;
+    border-color: rgb(218, 165, 95);
+    width: 25%;
+    text-align: center;
+    /*top,right,bottom,left*/
+    margin: 10px 20px 100px 400px;
+}
+
+#bottom {
+    border-style: groove;
+    border-color: rgb(90, 14, 84);
+    width: 50%;
+    padding: 200px;
+    text-align: center;
+    border
+}

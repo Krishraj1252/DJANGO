@@ -1,0 +1,43 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: teal;
+    margin: auto;
+    text-align: center;
+}
+
+h1 {
+    color: rgb(159, 199, 14);
+}
+
+h2 {
+    color: rgb(179, 16, 92);
+}
+
+p {
+    padding-top: 5%;
+    padding-left: 20%;
+    padding-right: 20%;
+    font-size: medium;
+    color: black;
+    margin: auto;
+}
+
+.emailform {
+    font-size: 1.5em;
+    border-style: groove;
+    border-color: palegreen;
+    background-color: papayawhip;
+    border-inline-end-style: groove;
+    margin: auto;
+    width: 25%;
+}
+
+#sub {
+    font-family: fantasy;
+    font-size: small;
+    border-inline-end-style: groove;
+    border-width: thick;
+    border-color: dimgray;
+    background-color: rebeccapurple;
+    margin: auto;
+}
